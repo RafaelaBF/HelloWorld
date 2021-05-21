@@ -38,7 +38,7 @@ p.historia{
     font-size: 150%;
 }
 .codigo{
-    color: white;
+    color: rgb(7, 73, 13);
     font-size: 120%;
 }
 /* PAGINA INICIAL */
@@ -68,4 +68,8 @@ body#esp{
 /* HELLO WORLD */
 body#eng{
     background-color: #354e88;
+}
+code#verdeclaro{
+    color: #92cf9c;
+    font-size: 120%;
 }
