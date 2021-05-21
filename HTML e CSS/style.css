@@ -24,12 +24,22 @@ p.texto{
     width: 50%;
     font-family: 'IBM Plex Mono', monospace; 
     margin-left: 1%;
-    margin-bottom: 4%; 
     font-size: 120%; 
 }
 img.computador{
     padding-left: 80%;
     margin-top: -40%;
+}
+p.historia{
+    color: white;
+    width: 50%;
+    font-family: 'IBM Plex Mono', monospace; 
+    margin-left: 1%;
+    font-size: 150%;
+}
+.codigo{
+    color: white;
+    font-size: 120%;
 }
 /* PAGINA INICIAL */
 body#pagincial{
